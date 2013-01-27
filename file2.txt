@@ -1,1 +1,2 @@
 adding another file directly at remote repository
+I'm now editing this file in local master.
