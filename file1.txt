@@ -1,1 +1,1 @@
-this file was added directly at github public repository
+Editing this file at remote master to create conflict with trunk/PI
